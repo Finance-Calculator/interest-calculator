@@ -44,7 +44,7 @@ Use the calculator below to find out how much you'll end up paying for your debt
 
             let total_paid = monthly * 60;
             node = document.createElement("p")
-            node.innerHTML = `Your balance is growing faster than your payment amount. You will never pay off your debt at this rate! After 5 years, after paying <b>$${total_paid}</b> in interest, your balance have grown to <b>$${ending_balance.toFixed(2)}</b>`
+            node.innerHTML = `Your balance is growing faster than your payment amount. You will never pay off your debt at this rate! After 5 years, after paying <b>$${total_paid}</b> in interest, your balance has grown to <b>$${ending_balance.toFixed(2)}</b>`
             document.body.appendChild(node);
             return;
         }
