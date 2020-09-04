@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style type="text/css">
+        body {
+            margin:40px auto;
+            max-width:750px;
+            line-height:1.6;
+            font-size:18px;
+            color:#444;
+            padding:0 10px;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        h1,h2,h3 {
+            line-height:1.2
+        }
+
+        label {
+            display: block;
+            width: 100%;
+            font-weight: bold;
+        }
+
+        input[type=number]{
+            width: 50%; /* Full width */
+            padding: 12px; /* Some padding */ 
+            border: 1px solid #ccc; /* Gray border */
+            border-radius: 4px; /* Rounded borders */
+            box-sizing: border-box; /* Make sure that padding and width stays in place */
+            margin-top: 6px; /* Add a top margin */
+            margin-bottom: 16px; /* Bottom margin */
+            resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+        }
+
+        input[type=submit] {
+            display: block;
+            background-color: #4CAF50;
+            color: white;
+            padding: 12px 20px;
+            border: none;
+            border-radius: 4px;
+          }
+    </style>
+  </head>
+  <body>
+    {{ content }}
+  </body>
+
+</html>
