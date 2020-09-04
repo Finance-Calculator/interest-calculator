@@ -46,6 +46,7 @@ Use the calculator below to find out how much you'll end up paying for your debt
             node = document.createElement("p")
             node.innerHTML = `Your balance is growing faster than your payment amount. You will never pay off your debt at this rate! After 5 years, after paying <b>$${total_paid}</b> in interest, your balance has grown to <b>$${ending_balance.toFixed(2)}</b>`
             document.body.appendChild(node);
+            node.scrollIntoView({behavior: "smooth"});
             return;
         }
 
@@ -68,6 +69,7 @@ Use the calculator below to find out how much you'll end up paying for your debt
                 you will pay an additional <i><b>$${total_interest.toFixed(2)}</b> in interest!</i>
             </div>`
         document.body.appendChild(node);
+        node.scrollIntoView({behavior: "smooth"});
     }
 
     function get_balance_after_months(num_months, balance, interest, monthly) {
