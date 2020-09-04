@@ -5,7 +5,7 @@ layout: default
 
 > *"The most powerful force in the universe is compound interest"* - Albert Einstein probably didn't say this
 
-When taking on any kind of loan, it is easy to overlook total amount you will end paying after interest. This is especially true with credit cards, where you are allowed to pay a minimum balance. As long as I pay the minimum amount each month, I'm fine, right? While paying the minimum amount will help you avoid late fees, it won't do much to reduce the amount you owe. In fact, you may find your debt growing, even if you aren't using any more credit.
+When taking on any kind of loan, it is easy to overlook the total amount you will end paying after interest. This is especially true with credit cards, where you are allowed to pay a minimum balance. As long as I pay the minimum amount each month, I'm fine, right? While paying the minimum amount will help you avoid late fees, it won't do much to reduce the amount you owe. In fact, you may find your debt growing, even if you aren't using any more credit.
 
 The average **credit card debt** in the US is **$5,700**. With a minimum payment of $25 and a typical yearly interest rate of 23%, you will NEVER pay down your debt. After 5 years your debt will have grown to **$16,536.42**.
 
